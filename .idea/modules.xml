@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CalculateCaptcha.iml" filepath="$PROJECT_DIR$/.idea/CalculateCaptcha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CalculateCaptcha.iml" filepath="$PROJECT_DIR$/CalculateCaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlideCaptcha/SlideCaptcha.iml" filepath="$PROJECT_DIR$/SlideCaptcha/SlideCaptcha.iml" />
     </modules>
   </component>
 </project>
